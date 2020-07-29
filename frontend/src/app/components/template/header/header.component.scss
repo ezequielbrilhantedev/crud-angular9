@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    align-items: center;
+
+    &__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+    &__logo {
+        max-height: 32px;
+    }
+
+    &__title {
+        padding-left: 25px;
+    }
+}

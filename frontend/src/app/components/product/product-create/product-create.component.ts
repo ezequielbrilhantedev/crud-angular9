@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductCreateComponent implements OnInit {
 
-  constructor() { }
+  constructor(private productService: productService) { }
 
   ngOnInit(): void {
   }

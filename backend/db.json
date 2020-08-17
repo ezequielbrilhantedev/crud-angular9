@@ -24,6 +24,16 @@
       "name": "Produto teste",
       "price": 129.98,
       "id": 5
+    },
+    {
+      "name": "Teste formulário",
+      "price": "1.99",
+      "id": 6
+    },
+    {
+      "name": "TV Samsung 50\"",
+      "price": "2.700,00",
+      "id": 7
     }
   ]
 }

@@ -1,14 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "Price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12.32
+      "price": "8000"
     },
     {
       "id": 3,
@@ -31,9 +26,14 @@
       "id": 6
     },
     {
-      "name": "TV Samsung 50\"",
-      "price": "2.700,00",
+      "name": "TV Samsung 50\" SmartTv 4K",
+      "price": "2700",
       "id": 7
+    },
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
     }
   ]
 }
